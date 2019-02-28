@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* checkout my App here: https://idea-box-manoj.herokuapp.com/
+* checkout my App here: https://ideaboxxxx.herokuapp.com/
